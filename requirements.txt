@@ -1,7 +1,6 @@
 streamlit
-joblib
 numpy
-pandas
+joblib
+plotly
+reportlab
 scikit-learn
-matplotlib
-xgboost
