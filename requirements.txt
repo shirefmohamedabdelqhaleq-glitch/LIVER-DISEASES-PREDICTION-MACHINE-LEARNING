@@ -4,3 +4,4 @@ joblib
 plotly
 reportlab
 scikit-learn
+xgboost
